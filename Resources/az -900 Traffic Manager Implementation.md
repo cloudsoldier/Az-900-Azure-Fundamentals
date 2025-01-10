@@ -1,4 +1,4 @@
-```markdown
+
 # Lab: Azure Traffic Manager - Priority Routing with Azure Web Apps
 
 ## Objective
@@ -102,4 +102,4 @@ In this lab, you will configure Azure Traffic Manager to route traffic between t
 
 ## Conclusion
 You successfully configured Azure Traffic Manager with the priority routing method, added endpoints, and tested failover scenarios. The lab demonstrated Traffic Manager's ability to route traffic globally and ensure high availability.
-```
+
