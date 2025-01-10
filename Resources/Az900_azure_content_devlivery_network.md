@@ -3,6 +3,9 @@
 ## Objective
 In this chapter, you will learn about the purpose and benefits of the Azure Content Delivery Network (CDN) service and how it improves the user experience by distributing network content globally.
 
+<img width="825" alt="image" src="https://github.com/user-attachments/assets/1c75e93f-47e2-4a4e-8389-ddaf8db7059e" />
+
+
 ---
 
 ## Key Concepts
