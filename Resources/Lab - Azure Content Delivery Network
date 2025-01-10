@@ -1,5 +1,5 @@
 
-```markdown
+
 # Lab: Creating and Configuring an Azure CDN Profile
 
 ## Objective
@@ -95,4 +95,4 @@ In this lab, you will learn how to create an Azure CDN profile, register the req
 
 ## Conclusion
 You have successfully created an Azure CDN profile, registered the required resource provider, and added your Azure Web App as an endpoint. This configuration enables global users to access your application with reduced latency and improved performance.
-```
+
