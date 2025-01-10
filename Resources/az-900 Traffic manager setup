@@ -120,4 +120,4 @@ In this lab, you will deploy two Azure Web Apps in different regions, simulate a
 
 ### Next Steps
 Proceed to the next chapter to integrate these web applications with the **Azure Traffic Manager Service**.
-```
+
