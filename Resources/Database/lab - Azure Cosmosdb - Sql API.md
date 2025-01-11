@@ -107,3 +107,53 @@ Learn how to create an Azure Cosmos DB account, set up a database and container,
 
 ## Conclusion
 You have successfully created an Azure Cosmos DB account, added data, and executed queries. This service is ideal for applications requiring high-speed, flexible, and globally distributed data storage.
+
+
+
+# Lab: Azure Cosmos DB - SQL API - Resources
+
+You can use the JSON items below to add to a Cosmos DB database based on the SQL API.
+
+---
+
+### JSON Items
+
+1. **Item 1**:
+   ```json
+   {
+     "customerid": "C1",
+     "customername": "UserA",
+     "customercity": "Chicago"
+   }
+   ```
+
+2. **Item 2**:
+   ```json
+   {
+     "customerid": "C2",
+     "customername": "UserB",
+     "customercity": "Chicago"
+   }
+   ```
+
+3. **Item 3**:
+   ```json
+   {
+     "customerid": "C3",
+     "customername": "UserC",
+     "customercity": "New York"
+   }
+   ```
+
+---
+
+## Instructions
+
+1. Open your Azure Cosmos DB account in the Azure Portal.
+2. Navigate to the **Data Explorer** section.
+3. Select your **Database** and **Container**.
+4. Add the above JSON items one by one:
+   - Click **New Item**.
+   - Copy and paste the JSON content.
+   - Click **Save** to store each item in the container.
+5. Repeat for all three items.
