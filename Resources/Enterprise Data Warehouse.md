@@ -5,7 +5,8 @@
 In this lecture, we will explore Azure services that help build an **enterprise data warehouse**. Companies today generate large volumes of data and aim to analyze it to gain insights and make data-driven decisions.
 
 ---
-![Uploading image.png…]()
+<img width="776" alt="image" src="https://github.com/user-attachments/assets/18d1a2ed-4059-40dc-810a-cb36af2cb927" />
+
 
 ## Key Concepts in Data Warehousing
 
