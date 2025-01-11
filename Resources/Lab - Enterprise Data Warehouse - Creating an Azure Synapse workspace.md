@@ -1,5 +1,5 @@
 
-```markdown
+
 # Lab: Storing Data in a SQL Data Warehouse Using Azure Synapse Analytics
 
 ## Objective
@@ -117,4 +117,4 @@ Learn how to create an **Azure Synapse Analytics Workspace**, configure a **dedi
 
 ## Summary
 In this lab, you created an **Azure Synapse Analytics Workspace**, configured a **dedicated SQL pool**, and prepared a SQL data warehouse for analytical workloads. This setup is crucial for large-scale data storage and analytics in enterprise environments.
-```
+
