@@ -1,5 +1,5 @@
 
-```markdown
+
 # Introduction to Azure Cosmos DB
 
 Azure Cosmos DB is a fully managed database service provided by Microsoft. It supports both **NoSQL** and **relational database systems**, which means it can handle modern, flexible data as well as traditional, structured data. The best part? Microsoft takes care of all the hardware and server management, so you can focus on using the database.
@@ -36,4 +36,4 @@ Azure Cosmos DB brings **NoSQL databases** to the cloud and supports multiple ty
 ## Next Steps
 
 In the next lesson, we’ll create an Azure Cosmos DB account using the SQL API to see how it works in action!
-```
+
