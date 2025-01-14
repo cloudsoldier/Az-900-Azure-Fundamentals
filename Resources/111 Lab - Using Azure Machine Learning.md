@@ -39,6 +39,7 @@ This lab focuses on building a machine learning pipeline in Azure Machine Learni
 3. Click on the Split Data component and configure the split ratio to `0.7` for training (70%) and `0.3` for testing (30%).
 
 ### Step 6: Train the Model
+Note: Search in search type train
 1. Drag the **Train Model** component onto the canvas.
 2. Connect the **70% training data** output from Split Data to the Train Model input.
 3. Drag the **Two-Class Logistic Regression** algorithm onto the canvas and connect it to the Train Model component.
