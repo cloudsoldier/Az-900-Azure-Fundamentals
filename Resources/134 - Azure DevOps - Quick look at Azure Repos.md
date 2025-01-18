@@ -44,7 +44,8 @@ In this lab, you will learn how to push source code to an Azure Repos repository
 ### Step 5: Add Azure Repos as a Remote Repository
 1. In Azure DevOps, navigate to **Repos** > **Files**.
 2. Copy the URL for the repository from the **Clone** section.
-3. In the terminal, set the remote origin for your local repository:
+3. type git clone and paste the url in front.
+4. In the terminal, set the remote origin for your local repository:
    - `git remote add origin <repository_url>`
    - Replace `<repository_url>` with the URL copied from Azure DevOps.
 
