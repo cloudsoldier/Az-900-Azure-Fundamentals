@@ -33,11 +33,12 @@ This lab demonstrates how to use Azure Logic Apps to create a no-code workflow t
 ## Step 2: Create an Azure Logic App
 1. Navigate to **Create a Resource** and search for **Logic App**.
 2. Click **Create** and configure the following:
+3. - **Plan Type**: Select **Consumption** for a simple, pay-as-you-go plan.
    - **Resource Group**: Use the same resource group as the Storage Account.
    - **Logic App Name**: Enter a unique name (e.g., `MyBlobWorkflow`).
    - **Region**: Choose the same region as your Storage Account.
-   - **Plan Type**: Select **Consumption** for a simple, pay-as-you-go plan.
-3. Click **Review + Create** and then **Create**.
+   
+4. Click **Review + Create** and then **Create**.
 
 ---
 
