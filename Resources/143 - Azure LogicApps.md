@@ -64,6 +64,9 @@ This lab demonstrates how to use Azure Logic Apps to create a no-code workflow t
    - Configure the email:
      - **To**: Enter your Outlook email address.
      - **Subject**: Enter `Blob Details`.
+     - Click blue fx and choose dynamic
+     - <img width="184" alt="image" src="https://github.com/user-attachments/assets/a3c8a948-3e55-4a80-81bc-9f076a3709cb" />
+
      - **Body**: Click **Dynamic Content** and add the relevant blob information (e.g., file name, size, and container name).
 
 5. Click **Save**.
