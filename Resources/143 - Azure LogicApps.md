@@ -66,7 +66,9 @@ This lab demonstrates how to use Azure Logic Apps to create a no-code workflow t
      - **Subject**: Enter `Blob Details`.
      - Click blue fx and choose dynamic
      - <img width="184" alt="image" src="https://github.com/user-attachments/assets/a3c8a948-3e55-4a80-81bc-9f076a3709cb" />
-
+- Add list of Files Item
+- <img width="584" alt="image" src="https://github.com/user-attachments/assets/a94ea0e6-9f48-4b6d-8a9d-c2e90d2928de" />
+- click Add
      - **Body**: Click **Dynamic Content** and add the relevant blob information (e.g., file name, size, and container name).
 
 5. Click **Save**.
@@ -81,6 +83,9 @@ This lab demonstrates how to use Azure Logic Apps to create a no-code workflow t
 3. Wait for a few minutes. The Logic App will run and send emails with details of the uploaded blobs.
 
 ---
+
+<img width="1525" alt="image" src="https://github.com/user-attachments/assets/d7675823-0820-46bc-8fc4-37bfe9ba93b5" />
+
 
 ## Step 5: Verify Email Notifications
 1. Open your Outlook email account.
