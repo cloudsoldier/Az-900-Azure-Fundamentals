@@ -6,6 +6,9 @@
 ## **Objective**
 Learn how to use Azure Key Vault to securely store and manage secrets, encryption keys, and certificates.
 
+
+<img width="656" alt="image" src="https://github.com/user-attachments/assets/e9a70b37-127b-4b1b-bdb5-e38ebb5dfb4f" />
+
 ---
 
 ## **Steps**
