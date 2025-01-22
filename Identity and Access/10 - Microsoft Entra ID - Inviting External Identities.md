@@ -78,5 +78,5 @@ This lab demonstrated how to:
 4. Clean up resources after the session.
 
 --- 
-
+Test with kashifaliuk45@outlook.com
 **End of Lab**
