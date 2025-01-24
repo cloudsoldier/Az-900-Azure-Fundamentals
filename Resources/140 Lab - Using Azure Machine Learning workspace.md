@@ -75,8 +75,17 @@ Search again in components
 3. Connect the output of the Train Model component to the first input of the Score Model component.
 
 ### Step 8: Evaluate the Model
+
+searh agin and type evaluate 
+
+
 1. Drag the **Evaluate Model** component onto the canvas.
 2. Connect the output of the Score Model component to the Evaluate Model input.
+
+should look like this 
+
+<img width="896" alt="image" src="https://github.com/user-attachments/assets/2e5e9a1f-d7ca-4923-ad78-4ea4c8d19c36" />
+
 
 ### Step 9: Submit the Pipeline
 1. Click on **Submit** to create an experiment.
@@ -84,6 +93,9 @@ Search again in components
 3. Select the compute instance created earlier.
 4. Click **Submit** to run the pipeline.
 5. Monitor the job progress in the **Jobs** tab.
+
+
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/b624b7fb-f2cc-4750-a36f-ec7e31bc6ce2" />
 
 ### Step 10: Review Results
 1. Once the job is complete, right-click on **Evaluate Model** and select **Preview Evaluation Results**.
