@@ -25,7 +25,7 @@ This lab focuses on building a machine learning pipeline in Azure Machine Learni
    - This dataset contains attributes such as age, work class, education, etc., and a target column for income classification.
 
 ### Step 4: Set Up Compute Infrastructure
-1. Right-click on the canvas and select **Manage Compute** to open a new tab.
+1. Under the manage Section select compute
 2. Under **Compute Instances**, click **New**.
 3. Configure the compute instance:
    - **VM Size**: Select `Standard_DS11_v2`.
@@ -34,19 +34,43 @@ This lab focuses on building a machine learning pipeline in Azure Machine Learni
 4. Wait for the compute instance to be ready.
 
 ### Step 5: Split the Data
+- Search and type split in the component tab
+
+- <img width="320" alt="image" src="https://github.com/user-attachments/assets/0255e513-b188-4bce-8cf0-d2290ef25d13" />
+
 1. From **Components**, drag the **Split Data** component onto the canvas.
 2. Connect the output of the dataset to the input of the Split Data component.
 3. Click on the Split Data component and configure the split ratio to `0.7` for training (70%) and `0.3` for testing (30%).
+
+4. <img width="320" alt="image" src="https://github.com/user-attachments/assets/f7862375-686e-4f48-ab73-bc9c47e3bf65" />
+
 
 ### Step 6: Train the Model
 Note: Search in search type train
 1. Drag the **Train Model** component onto the canvas.
 2. Connect the **70% training data** output from Split Data to the Train Model input.
-3. Drag the **Two-Class Logistic Regression** algorithm onto the canvas and connect it to the Train Model component.
-4. Configure the Train Model component to predict the **income** column.
+
+   - Search two class Logistic Regression as below.
+
+  <img width="317" alt="image" src="https://github.com/user-attachments/assets/aa93c76d-6dc9-4860-bf8d-8508c818af4a" />
+
+     
+4. Drag the **Two-Class Logistic Regression** algorithm onto the canvas and connect it to the Train Model component.
+5. Configure the Train Model component to predict the **income** column. edit column
+
+6. <img width="651" alt="image" src="https://github.com/user-attachments/assets/58aeff2c-88e0-46ba-897a-074b5c010cf3" />
+
+<img width="637" alt="image" src="https://github.com/user-attachments/assets/44c7dd9c-95d3-492f-bea5-97588bf0d480" />
+
+
 
 ### Step 7: Score the Model
-1. Drag the **Score Model** component onto the canvas.
+
+Search again in components 
+
+<img width="324" alt="image" src="https://github.com/user-attachments/assets/11c706da-df03-4168-860b-fa4598586231" />
+
+1. Drag the **Score Model** component onto the canvas under the train model.
 2. Connect the **30% testing data** output from Split Data to the second input of the Score Model component.
 3. Connect the output of the Train Model component to the first input of the Score Model component.
 
