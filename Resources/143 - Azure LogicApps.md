@@ -63,6 +63,9 @@ This lab demonstrates how to use Azure Logic Apps to create a no-code workflow t
 # Go to your logicapp app
 
 4. Add an **Action**:
+
+5. <img width="532" alt="image" src="https://github.com/user-attachments/assets/30b7b0d8-c3fa-4aeb-afeb-5b894c075fbd" />
+
    - Click **+ New Step**.
    - Search for **Outlook.com**.
    - Select **Send an email (V2)**.
