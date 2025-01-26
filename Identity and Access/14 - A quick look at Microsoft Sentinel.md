@@ -30,6 +30,10 @@
 
 ### Step 2: Set Up Microsoft Sentinel
 - Attach Microsoft Sentinel to the log analytics workspace:
+- provision Microsft Sentinel
+
+- <img width="874" alt="image" src="https://github.com/user-attachments/assets/15192fc8-268c-4ab5-b3c3-8b866c1cd1f6" />
+
   1. Navigate to **Microsoft Sentinel**.
   2. Select the workspace created earlier.
   3. Enable Sentinel on top of the workspace.
@@ -39,22 +43,29 @@
 
 ## Features of Microsoft Sentinel
 
-### Content Hub
+### Go To Content Hub
 - A centralized location for connecting data sources.
 - Provides **solutions** to pull data from various platforms (e.g., Azure activity logs).
 - Current solutions available: **343** (subject to growth).
 
 ### Example: Collecting Azure Activity Logs
 1. Go to **Content Hub**.
-2. Select **Azure Activity Logs**.
-3. Install the solution to collect data.
-4. Manage data and view collected logs in the workspace.
+
+2. <img width="632" alt="image" src="https://github.com/user-attachments/assets/b43d66e8-5f3c-4571-bc5a-130214844aed" />
+
+3. Select **Azure Activity Logs**.
+4. Install the solution to collect data.
+5. Click Manage data and view collected logs in the workspace.
+
+6. <img width="730" alt="image" src="https://github.com/user-attachments/assets/09cbf09a-5f5a-4555-b903-858701e9f197" />
+
 
 ### Built-in Rules
 - Monitor suspicious activities such as:
   - **Suspicious resource deployments**.
   - **Usage of Cloud Shell by new users**.
 - Create custom rules to detect threats.
+<img width="1045" alt="image" src="https://github.com/user-attachments/assets/6dde6fe4-b54b-4d05-861b-c58322719855" />
 
 ---
 
