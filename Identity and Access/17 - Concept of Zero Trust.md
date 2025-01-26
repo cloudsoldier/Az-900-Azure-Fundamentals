@@ -1,5 +1,7 @@
 # Lecture Notes: Zero Trust Concept
 
+https://learn.microsoft.com/en-us/azure/security/fundamentals/zero-trust
+
 <img width="658" alt="image" src="https://github.com/user-attachments/assets/093e05dd-f717-4d8a-9ab5-13668dba6426" />
 
 <img width="664" alt="image" src="https://github.com/user-attachments/assets/c6b3e053-0e37-4f14-a678-e934f4092a75" />
