@@ -2,6 +2,9 @@ https://azure.microsoft.com/en-us/pricing/details/ddos-protection/
 
 # Lecture Notes: Azure DDoS Protection
 
+<img width="714" alt="image" src="https://github.com/user-attachments/assets/3aea1d86-2ab2-4c81-be37-1f6ad70aa2fc" />
+
+
 ## Overview
 - **DDoS (Distributed Denial-of-Service) Attacks**:
   - Malicious users use bots to flood traffic to an application, overwhelming its resources.
