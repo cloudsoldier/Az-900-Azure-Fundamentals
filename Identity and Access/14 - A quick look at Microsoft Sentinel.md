@@ -1,5 +1,11 @@
 # Lecture Notes: Microsoft Sentinel Service
 
+<img width="607" alt="image" src="https://github.com/user-attachments/assets/e4eacc33-ec4a-4890-958d-284c80d2091c" />
+
+<img width="279" alt="image" src="https://github.com/user-attachments/assets/801d353d-24c0-47c8-b3ea-3e60f32412b5" />
+
+
+
 ## Overview
 - **Microsoft Sentinel** is a cloud-based solution for:
   - **Security Information and Event Management (SIEM)**
