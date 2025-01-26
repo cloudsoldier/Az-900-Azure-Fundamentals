@@ -1,5 +1,8 @@
 # Lecture Notes: Azure Firewall Service
 
+<img width="455" alt="image" src="https://github.com/user-attachments/assets/05632ed8-f42a-4cc2-8491-f8f38180f1e0" />
+
+
 ## Overview
 - **Azure Firewall**:
   - A managed, cloud-based firewall service.
