@@ -1,6 +1,13 @@
 
 # Notes: Syncing Identities from On-Premises Microsoft AD to Microsoft Entra ID
 
+
+<img width="759" alt="image" src="https://github.com/user-attachments/assets/059fe1d6-03b5-4bc5-b4dd-a14ecf0dfd92" />
+
+<img width="821" alt="image" src="https://github.com/user-attachments/assets/c0dd3348-32b8-4467-8321-9f6d01762479" />
+
+
+
 ## Microsoft Entra ID Domain Services
 - Acts as a substitute for Microsoft Active Directory (AD) on the Azure platform.
 - Provides a managed service for hosting Microsoft AD.
