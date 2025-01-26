@@ -1,5 +1,8 @@
 # Notes: Microsoft Defender for Cloud
 
+<img width="1054" alt="image" src="https://github.com/user-attachments/assets/9839bc36-39a2-4a9b-8d89-bf2e1c96023d" />
+
+
 ## Overview
 - **Microsoft Defender for Cloud** is a tool to enhance the security posture of resources deployed in your Azure account.
 - Can be enabled for Azure subscriptions with a **30-day free trial** of enhanced security features.
