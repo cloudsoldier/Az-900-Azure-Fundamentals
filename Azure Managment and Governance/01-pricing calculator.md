@@ -1,6 +1,7 @@
 
 https://azure.microsoft.com/en-us/pricing/calculator/
 
+<img width="1128" alt="image" src="https://github.com/user-attachments/assets/42345c5a-efef-472d-af05-49cc7d951341" />
 
 # Azure Costing Aspects and Pricing Calculator
 
