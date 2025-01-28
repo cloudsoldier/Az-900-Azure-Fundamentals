@@ -1,6 +1,9 @@
 
 https://azure.microsoft.com/en-us/pricing/tco/calculator/
 
+
+<img width="1410" alt="image" src="https://github.com/user-attachments/assets/4ba6f598-73b0-4703-81e2-11cb633754c2" />
+
 # Azure Total Cost of Ownership (TCO) Calculator
 
 ## Overview
