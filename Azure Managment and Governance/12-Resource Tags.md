@@ -2,6 +2,7 @@
 
 <img width="583" alt="image" src="https://github.com/user-attachments/assets/19e0068d-bb6a-4438-be50-77cacd65f01f" />
 
+<img width="411" alt="image" src="https://github.com/user-attachments/assets/9f9acabf-0ba6-4b85-9ff9-ef37305bb787" />
 
 
 # Azure Resource Tags and Resource Groups
