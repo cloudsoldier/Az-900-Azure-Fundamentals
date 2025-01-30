@@ -13,3 +13,15 @@ https://learn.microsoft.com/en-us/powershell/azure/install-azps-windows?view=azp
 
 New-AzVm -ResourceGroupName 'app-grp' -Name 'appvm' -Location 'northeurope' -Image 'MicrosoftWindowsServer:WindowsServer:2022-datacenter-azure-edition:latest' -VirtualNetworkName 'app-network' -SubnetName 'default' -SecurityGroupName 'app-nsg' -PublicIpAddressName 'app-ip' -OpenPorts 80,3389
 
+
+Connect-AzAccount
+New-AzVm `
+    -ResourceGroupName 'kashrg' `
+    -Name 'kashvm01' `
+    -Location 'uksouth' `
+    -Image 'MicrosoftWindowsServer:WindowsServer:2022-datacenter-azure-edition:latest' `
+    -VirtualNetworkName 'myVnet' `
+    -SubnetName 'mySubnet' `
+    -SecurityGroupName 'myNetworkSecurityGroup' `
+    -PublicIpAddressName 'myPublicIpAddress' `
+    -OpenPorts 80,3389
