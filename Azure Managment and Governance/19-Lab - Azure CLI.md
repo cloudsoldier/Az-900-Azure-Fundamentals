@@ -2,6 +2,8 @@
 
  <img width="957" alt="image" src="https://github.com/user-attachments/assets/aab4538b-56b1-4df7-a446-e7404698df69" />
 
+ az vm delete --resource-group kashrg --name linuxvm
+
  
 # Azure Command-Line Interface (CLI) Lecture Notes
 
