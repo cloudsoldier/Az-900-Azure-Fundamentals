@@ -8,5 +8,8 @@ https://learn.microsoft.com/en-us/powershell/azure/install-azps-windows?view=azp
 
 2. The following command can be used to create a virtual machine using PowerShell
 
+3. 
+[ learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-powershell](https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-powershell)
+
 New-AzVm -ResourceGroupName 'app-grp' -Name 'appvm' -Location 'northeurope' -Image 'MicrosoftWindowsServer:WindowsServer:2022-datacenter-azure-edition:latest' -VirtualNetworkName 'app-network' -SubnetName 'default' -SecurityGroupName 'app-nsg' -PublicIpAddressName 'app-ip' -OpenPorts 80,3389
 
