@@ -18,13 +18,3 @@ New-AzVm -ResourceGroupName 'app-grp' -Name 'appvm' -Location 'uksouth' -Image '
 
 
 
-New-AzVm `
-    -ResourceGroupName 'kashrg' `
-    -Name 'kashvm01' `
-    -Location 'uksouth' `
-    -Image 'MicrosoftWindowsServer:WindowsServer:2022-datacenter-azure-edition:latest' `
-    -VirtualNetworkName 'myVnet' `
-    -SubnetName 'mySubnet' `
-    -SecurityGroupName 'myNetworkSecurityGroup' `
-    -PublicIpAddressName 'myPublicIpAddress' `
-    -OpenPorts 80,3389
