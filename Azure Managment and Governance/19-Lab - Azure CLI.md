@@ -1,8 +1,16 @@
- az vm create --resource-group kashrg --name linuxvm --image "Canonical:0001-com-ubuntu-minimal-jammy:minimal-22_04-lts-gen2:latest" --admin-username linuxadmin --admin-password AzureMicrosoft@123 --public-ip-sku Standard
+az group create --name kashrg --location uksouth
+az vm create --resource-group kashrg --name linuxvm --image "Canonical:0001-com-ubuntu-minimal-jammy:minimal-22_04-lts-gen2:latest" --admin-username linuxadmin --admin-password AzureMicrosoft@123 --public-ip-sku Standard
+
+To Delete the above resource group
+
+az group delete --name kashrg --yes
+
+<img width="747" alt="image" src="https://github.com/user-attachments/assets/16d4baa6-75a3-4086-9fa1-208c24fa8d8d" />
+
 
  <img width="957" alt="image" src="https://github.com/user-attachments/assets/aab4538b-56b1-4df7-a446-e7404698df69" />
 
- az vm delete --resource-group kashrg --name linuxvm
+
 
  
 # Azure Command-Line Interface (CLI) Lecture Notes
