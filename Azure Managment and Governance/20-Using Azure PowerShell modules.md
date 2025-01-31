@@ -17,4 +17,4 @@ Connect-AzAccount
 New-AzVm -ResourceGroupName 'app-grp' -Name 'appvm' -Location 'uksouth' -Image 'MicrosoftWindowsServer:WindowsServer:2022-datacenter-azure-edition:latest' -VirtualNetworkName 'app-network' -SubnetName 'default' -SecurityGroupName 'app-nsg' -PublicIpAddressName 'app-ip' -OpenPorts 80,3389 -Size "Standard_D2s_v3"
 
 
-
+Remove-AzResourceGroup -Name 'app-grp' -Force
