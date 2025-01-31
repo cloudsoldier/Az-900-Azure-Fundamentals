@@ -1,7 +1,7 @@
 
 <img width="618" alt="image" src="https://github.com/user-attachments/assets/8c955e27-562d-41ca-bf58-80f8923068a7" />
 
-```markdown
+
 # Lecture Notes: Application Insights for Live Application Monitoring
 
 ---
