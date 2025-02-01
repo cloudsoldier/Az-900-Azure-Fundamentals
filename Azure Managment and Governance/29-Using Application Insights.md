@@ -77,7 +77,11 @@ https://learn.microsoft.com/en-us/azure/azure-monitor/app/asp-net-core?tabs=netc
    - Build the project.  
    - Deploy to the Azure Web App via the **Azure App Service** extension.  
 2. **Verify Deployment**:  
-   Access the web app’s URL (e.g., `https://<your-webapp-name>.azurewebsites.net`).  
+   Access the web app’s URL (e.g., `https://<your-webapp-name>.azurewebsites.net`).
+
+   # publish code locally
+   # dotnet publish -c Release -o ./bin/Publish
+
 
 ### **Step 4: Monitor Live Metrics**  
 1. In the Application Insights resource, go to **Live Metrics**.  
